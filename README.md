@@ -11,4 +11,4 @@ npm run dev ##运行
 npm run build ##打包
 ```
 
-欢迎Star🌟
+欢迎Star🌟🌟
