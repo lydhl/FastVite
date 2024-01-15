@@ -1,11 +1,11 @@
  //index.ts
  import {createRouter, createWebHashHistory} from 'vue-router';
- import login from '../view/login.vue'
+ import index from '../view/index.vue'
  const routes = [
     {
         path: '/',
-        name: 'login',
-        component: login
+        name: 'index',
+        component: index
       }
  ];
  
